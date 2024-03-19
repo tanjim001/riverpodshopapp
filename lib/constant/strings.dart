@@ -1,0 +1,17 @@
+const ih1="First See Learning";
+const ih2="Connect With Everyone";
+const ih3="Always Fascinated Learning";
+const ib1="Forget about a for of paper all knowledge in one learning";
+const ib2= "Always Keep in touch with your tutor & friend. let's get connected!";
+const ib3= "Anywhere,Anytime.The time is at your discretion so study whenever you want";
+const username="Username";
+const entusername="Enter your User-name";
+const email="Email";
+const entemail="Enter Your e-mail address";
+const password="Password";
+const entpass="Enter your Password";
+const conpass="Confirm Password";
+const entconpass="Enter your confirm password";
+const conditions='By creating an account you have to agree with our them and conditions';
+const signupH="Enter your details below & free sign up";
+const signUp='Sign Up';
