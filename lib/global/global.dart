@@ -1,5 +1,5 @@
 import 'package:elearnapp/firebase_options.dart';
-import 'package:elearnapp/storageservice/storageservice.dart';
+import 'package:elearnapp/service/storageservice.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
